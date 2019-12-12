@@ -29,7 +29,9 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\hfill
+\begin{large}
+Cover Letter
+\end{large}
 
 \begin{minipage}[t]{0.5\textwidth}
 \companyname{Company Recruitment Team}
@@ -65,9 +67,9 @@ I have developed websites, deployed some of my projects and practiced a wide ran
 
 \lettercontent{Furthermore, I have a decent amount of experience and knowledge of git version control system, GitHub, deploying platforms like Heroku, Microsoft Azure and MongoDB Atlas. I am comfortable with Linux environment and have done most of my programming in it. }
 
-\lettercontent{I am willing to work as an intern in my summer vacations (any time from 4th May, 2020 to 21st July, 2020). I will be extremely grateful if I could get a chance to do an internship at your company and will work my best to prove that I will be an asset. Kindly inform me about the same.}
+\lettercontent{I like to work in teams and collaborate, I am open to learning new technologies, and want to have a learning experience by working at your company. I am willing to work as an intern in my summer vacations (any time from 4th May, 2020 to 21st July, 2020). I will be extremely grateful if I could get a chance to do an internship at your company and will work my best to prove that I will be an asset. Kindly inform me about the same.}
 
-\closing{Sincerely,\\ \vspace{.1cm} \includegraphics[width=4cm]{signature} \vspace{-1cm} }
+\closing{Sincerely,\\ \vspace{.1cm} \includegraphics[width=3.5cm]{signature} \vspace{-1cm} }
 
 \signature{Shashwat Kathuria}
 
